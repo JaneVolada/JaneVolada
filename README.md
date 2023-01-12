@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет! 👋
+Я **Лапина Евгения**, тестировщик ПО.
+### Вот, что я умею:
+- Автоматизированное тестирование на **Java** [репозиторий с дипломной работой](https://github.com/JaneVolada/diplom).
+- Ручное тестирование [курсовой проект](https://docs.google.com/spreadsheets/d/1ztC8b8mXoseOirf2e0EzMZZvDeX4R3hETgQDrJ54E_I/edit#gid=0)
+### Сертификаты Нетологии:
+- [Ручное тестирование](https://github.com/JaneVolada/serg/blob/main/%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8.pdf)
+- [Java для тестировщиков](https://github.com/JaneVolada/serg/blob/main/Java%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+- [Автоматизированное тестирование](https://github.com/JaneVolada/serg/blob/main/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 
 <!--
 **JaneVolada/JaneVolada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
